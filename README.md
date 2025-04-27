@@ -10,7 +10,7 @@ Secure login with password masking
 Restricted access to patient and doctor records
 🧑‍⚕ Patient Management
 Add inpatient or outpatient
-View all patients
+View all patients.
 Search patient by National ID
 Modify patient details
 Delete patient records
